@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ermanjunaidi
-- 👀 I’m interested in ReactJs
+- 👀 I’m interested in ReactJs,NextJs
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on team Frontend
 - 📫 How to reach me in ig https://www.instagram.com/ermanjunaidi
